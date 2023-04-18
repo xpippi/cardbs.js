@@ -1,12 +1,12 @@
 {
   "name": "cardbs",
-  "version": "0.0.0",
+  "version": "0.0.1b",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "cardbs",
-      "version": "0.0.0",
+      "version": "0.0.1b",
       "license": "ISC",
       "dependencies": {
         "aggregate-error": "^3.1.0",
