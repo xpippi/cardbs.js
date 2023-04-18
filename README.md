@@ -1,2 +1,2 @@
-# Bullsh[$1]t card
+# Bullsh[$1] card
 #
