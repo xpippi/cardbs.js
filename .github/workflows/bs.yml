@@ -1,7 +1,7 @@
 name: Shootit
 
 on:
-  [ master ]
+  [ cardbs.js ]
 
 jobs:
   Proof-ubuntu:
