@@ -1,6 +1,6 @@
 {
   "name": "cardbs",
-  "version": "0.0.1b",
+  "version": "0.0.2x",
   "description": "nope",
   "main": "card.js",
   "dependencies": {
@@ -216,7 +216,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xpippi/cardjs.git"
+    "url": "git+https://github.com/xpippi/cardbs.js.git"
   },
   "keywords": [
     "cards"
@@ -224,7 +224,7 @@
   "author": "xpippi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xpippi/cardjs/issues"
+    "url": "https://github.com/xpippi/cardbs.js/issues"
   },
-  "homepage": "https://github.com/xpippi/cardjs#readme"
+  "homepage": "https://github.com/xpippi/cardbs.js#readme"
 }
