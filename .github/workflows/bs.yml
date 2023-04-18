@@ -1,0 +1,5 @@
+import { context } from '@actions/github';
+
+const author = context.payload.commits[0].author;
+await exec(`git config --local user.name "${author.name}"`);
+await exec(`git config --local user.email "${author.email}"`);

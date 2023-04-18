@@ -1,0 +1,1 @@
+{"parent":null,"pid":19745,"argv":["/usr/bin/node","/home/pippi/card.js/node_modules/.bin/tap","test/*.js"],"execArgv":[],"cwd":"/home/pippi/card.js","time":1681848652210,"ppid":19734,"coverageFilename":"/home/pippi/card.js/.nyc_output/29df6924-476e-430f-b23b-c67f4d35adac.json","externalId":"","uuid":"29df6924-476e-430f-b23b-c67f4d35adac","files":[]}
