@@ -1,7 +1,7 @@
 name: Shootit
 
 on:
-  [ Shootit ]
+  [ push ]
 
 jobs:
   Proof-ubuntu:
