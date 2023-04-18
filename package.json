@@ -1,6 +1,6 @@
 {
   "name": "cardbs",
-  "version": "0.0.2x",
+  "version": "0.0.3x",
   "description": "nope",
   "main": "card.js",
   "dependencies": {
